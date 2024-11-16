@@ -8,9 +8,11 @@
 
 На данный момент Учавствую в НТО 2024 по профилю "Разработка Компьютерных Игр".
 
-https://imgur.com/lorDTRe https://imgur.com/a/G2EzVq0 
+  ![28374_yjuf_9157](https://github.com/user-attachments/assets/4e59856e-21e9-4248-8243-c6c956f45f12)
+
 <!--
-**Wkor/Wkor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Wkor/Wkor** is a ✨ _spe![Uploading 28374_yjuf_9157.gif…]()
+cial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
