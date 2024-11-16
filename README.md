@@ -8,7 +8,7 @@
 
 На данный момент Учавствую в НТО 2024 по профилю "Разработка Компьютерных Игр".
 
-  ![28374_yjuf_9157](https://github.com/user-attachments/assets/4e59856e-21e9-4248-8243-c6c956f45f12)
+![7d7ba1fb459d9a2958aef461c742217a](https://github.com/user-attachments/assets/8f28e460-6761-4111-9a19-fc7d8fa62715)
 
 <!--
 **Wkor/Wkor** is a ✨ _spe![Uploading 28374_yjuf_9157.gif…]()
