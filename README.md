@@ -19,14 +19,11 @@
 
 ## Статус GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=Wkor&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" height="165" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wkor&theme=github-dark&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wkor&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Langs" height="165" />
 
 ## Контакты
 
 [![GitHub](https://img.shields.io/badge/GitHub-Wkor-181717?style=for-the-badge&logo=github)](https://github.com/Wkor)
+[![Telegram](https://img.shields.io/badge/Telegram-@ZhoskeSigmaCriper-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZhoskeSigmaCriper)
 
 </div>
