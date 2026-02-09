@@ -2,9 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=420&lines=Ivan+%7C+Software+Engineer+%7C+Russia" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Wkor&label=Profile%20views&color=1f6feb&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Wkor?label=Followers&style=for-the-badge&color=238636" alt="Followers" />
-
 ## Обо мне
 
 **Студент из России, 15 лет.** Обучаюсь программной инженерии.
