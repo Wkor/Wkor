@@ -4,7 +4,7 @@
 
 ## About me
 
-**Student frome Russia, 15 y.o.** I am learn software engineering.
+**Student from Russia, 15 y.o.** I am learn software engineering.
 
 ## Technology stack
 
