@@ -2,11 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=420&lines=Ivan+%7C+Software+Engineer+%7C+RU" alt="Typing SVG" />
 
-## Обо мне
+## About me
 
-**Студент из России, 15 лет.** Обучаюсь программной инженерии.
+**Student frome Russia, 15 y.o.** I am learn software engineering.
 
-## Стек технологий
+## Technology stack
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -17,11 +17,11 @@
   <img src="https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
 </p>
 
-## Статус GitHub
+## Github status
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wkor&theme=github-dark&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" height="165" />
 
-## Контакты
+## Contacts
 
 [![GitHub](https://img.shields.io/badge/GitHub-Wkor-181717?style=for-the-badge&logo=github)](https://github.com/Wkor)
 [![Telegram](https://img.shields.io/badge/Telegram-@ZhoskeSigmaCriper-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZhoskeSigmaCriper)
